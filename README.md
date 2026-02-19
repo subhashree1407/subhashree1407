@@ -1,3 +1,7 @@
+# SUBHASHREE SAHU 👩‍💻
+### Learning, building, and improving one commit at a time
+
+
 # 💫 About Me:
 🔭 I’m currently working on Sahara Healthcare Management Project  <br>👯 I’m looking to collaborate on web development and beginner-friendly open source projects  <br>🤝 I’m interested in learning and building scalable backend systems with others  <br>🌱 I’m currently learning Cloud, DevOps, and improving DSA  <br>💬 Ask me about C++, Data Structures & Algorithms, and basic full-stack development  <br>⚡ Fun fact: I enjoy solving coding problems more than watching movies 😄<br>
 
